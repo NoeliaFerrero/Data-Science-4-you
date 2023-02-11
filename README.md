@@ -278,9 +278,5 @@ Pasos a seguir para realizar una contribución:
 
 Una vez que hayas enviado tu "pull request", los colaboradores podremos revisar los cambios propuestos y decidir si incorporarlos o no.
 
-## Contribuidores 🏆
-
-* [Fernanda Cader](https://github.com/FernandaCader): Fundadora de Datos Para Todos.
-* [Nicolás Montenegro](https://github.com/nicolascmontenegro): Primer Colaborador.
 
 
