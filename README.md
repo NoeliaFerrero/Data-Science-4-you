@@ -5,6 +5,11 @@
 ![Datos Para Todos](https://i.imgur.com/cl5lXMO.png)
 
 <p align="center">
+  <img src="https://github.com/NoeliaFerrero/Ninja/blob/main/cientifico_datos.png">
+</p>
+
+
+<p align="center">
   Recopilación de recursos para estudiantes de Ciencia De Datos.
 </p>
 
