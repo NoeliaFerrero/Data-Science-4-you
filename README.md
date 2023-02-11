@@ -4,8 +4,6 @@
 
 ![Datos Para Todos](https://i.imgur.com/cl5lXMO.png)
 
-Creado por: [Fernanda Cader](https://github.com/FernandaCader)
-
 <p align="center">
   Recopilación de recursos para estudiantes de Ciencia De Datos.
 </p>
@@ -16,24 +14,15 @@ Plantilla tomada de [Acadeller](https://github.com/Acadeller)
 # Tabla de contenidos 💡
 
 - [Resumen](#resumen)
-- [Comunidad](#comunidad)
 - [Índice](#índice)
 - [Contribución](#contribución)
 
 # Resumen
 
-Datos Para Todos, hola mi nombre es Fernanda Cader, decidi formar la comunidad Datos Para Todos para impulsar a las personas en el mundo del la ciencia de datos. Que empezó siendo una pequeña cuenta de Youtube que hacía publicaciones sobre ciencia de datos. A día de hoy contamos con más de 700 seguidores en Yotube y 500 en Telegram, pero el objetivo de la comunidad sigue siendo el mismo: ***ayudar a la gente a aprender ciencia de datos.***
-
-Por esa razón, nace este repositorio. Cuyo objetivo principal, es recopilar la mayor cantidad posible de recursos de ciencias de datos que existan en internet, para que estén al alcance de cualquier persona en todo momento. El repositorio está dividido por bases de programación, cursos y carreras, también se adjuntarán todos los recursos que enriquezcan la comunidad (se puede colocar tu canal de Youtube/Redes siempre y cuando sea sobre Ciencia De Datos)
+Este repositorio nace con el objetivo principal de recopilar la mayor cantidad posible de recursos de Ciencias de datos que existan en internet, para que estén al alcance de cualquier persona en todo momento. El repositorio está dividido por bases de programación, cursos y carreras, también se adjuntarán todos los recursos que enriquezcan la comunidad (se puede colocar algún canal de Youtube/Redes siempre y cuando sea sobre Ciencia De Datos)
 
 Si te interesa [contribuir](#contribución) en este repositorio puedes hacerlo de [esta manera](#contribución).
 
-# Comunidad
-
-- Puedes seguir a Fernanda en nuestra cuenta de [Instagram](https://www.instagram.com/fernandacader/) para ver publicaciones sobre ciencia de datos
-- ¡Tenemos un servidor de Discord! Aquí podras compartir tus experiencias y conocer a otros estudiantes [Únete al Discord de Datos Para Todos](https://discord.gg/GNFhw3CHve) <a href="https://discord.gg/GNFhw3CHve">
-    		<img src="https://img.shields.io/discord/715323337240477707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2" alt="Discord">
-- También puedes ver el contenido de Fernanda en [Linkedin](https://www.linkedin.com/in/fernandacader/).
 
 # Índice
 
