@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Recopilación de recursos para estudiantes de Ciencia De Datos.
+  Recopilación de recursos para aprender Ciencia De Datos.
 </p>
 
 Plantilla tomada de [Acadeller](https://github.com/Acadeller)
