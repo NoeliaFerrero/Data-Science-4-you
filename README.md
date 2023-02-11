@@ -2,15 +2,8 @@
 
 # Recursos para Estudiar Ciencias De Datos
 
-![Datos Para Todos](https://i.imgur.com/cl5lXMO.png)
-
 <p align="center">
-  <img src="https://github.com/NoeliaFerrero/Ninja/blob/main/cientifico_datos.png">
-</p>
-
-  
-<p align="center">
-  <img src="https://github.com/NoeliaFerrero/Data-Science-4-you/blob/main/gatito_algebra_lineal.jpg", size= 10*10>
+  <img src="https://github.com/NoeliaFerrero/Data-Science-4-you/blob/main/gatito_algebra_lineal.jpg" width="700" height="600">
 </p>
 
 <p align="center">
@@ -121,7 +114,7 @@ Nombre | Descripción                                                           
 | Datacamp | Plataforma para aprender todo lo indispensable en análisis y ciencia de datos                                                                                                                                                                                                                                                                                                                                        | Cursos              | Inglés  | No | [Link](https://www.datacamp.com/) |
 | MITx | Si usted cuenta con un capital, puede formarse en MIT, debe tener conocimientos avanzados de data science, pero puede verificar en LinkedIn que la gente que ha hecho la siguiente carrera ha conseguido empleo. Usted puede solicitar asistencia financiera para que le hagan un gran descuento, la carrera sale 1350 USD, con descuento saldría 150 USD, ya que cada curso con descuento vale 30 USD(son 5 cursos) | Cursos              | Inglés  | No | [Link](https://micromasters.mit.edu/ds/) |
 |
- |A2 Capacitación | Curso de Excel recomendado                                                                                                                                                                                                                                                                                                                                                                                           | Curso               | Español | No | [Link] (https://a2capacitacion.com/)
+|A2 Capacitación | Curso de Excel recomendado                                                                                                                                                                                                                                                                                                                                                                                           | Curso               | Español | No | [Link] (https://a2capacitacion.com/)
 | Excel | Aprende Excel de manera interactiva | Curso | Inglés | Sí | [Link](https://excel-practice-online.com/)
 |
 |Open Salud Lab | Bootcamp Ciencia de Datos con R | Bootcamp            | Español | Sí | [Link](https://www.youtube.com/playlist?list=PLsv7dA-wqwS-P2u7ryDQiulu-eUYOT-9J)
@@ -249,7 +242,7 @@ En Argentina
 
 # Contribución
 
-Cualquier persona puede contribuir a este repositorio, invitamos a la comunidad a formar parte de este proyecto para hacer crecer este recurso y que tengo un mayor valor.
+Cualquier persona puede contribuir a este repositorio, quedan invitados a formar parte de este proyecto para hacer crecer este recurso y que tenga un mayor valor.
 
 Cabe destacar que este repositorio NO es una herramienta de marketing, el objetivo es aportar a la comunidad, no hacer un negocio. Por esa razón, las pull requests que parezcan un intento de marketing no serán aceptadas.
 
@@ -285,7 +278,7 @@ Pasos a seguir para realizar una contribución:
 2. Realizar los cambios (agregar entradas).
 3. Hacer una "pull request" a nuestro repositorio.
 
-Una vez que hayas enviado tu "pull request", los colaboradores podremos revisar los cambios propuestos y decidir si incorporarlos o no.
+Una vez que hayas enviado tu "pull request", se revisarán los cambios propuestos y se decidirá si incorporarlos o no. Muchas gracias por llegar hasta acá! 
 
 
 
