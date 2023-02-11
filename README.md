@@ -8,6 +8,10 @@
   <img src="https://github.com/NoeliaFerrero/Ninja/blob/main/cientifico_datos.png">
 </p>
 
+  
+<p align="center">
+  <img src="https://github.com/NoeliaFerrero/Data-Science-4-you/blob/main/gatito_algebra_lineal.jpg">
+</p>
 
 <p align="center">
   Recopilación de recursos para estudiantes de Ciencia De Datos.
