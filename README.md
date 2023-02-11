@@ -1,6 +1,6 @@
 <div align="center">
 
-# Recursos para Estudiar Ciencias De Datos
+# Recursos para aprender Ciencias De Datos
 
 <p align="center">
   <img src="https://github.com/NoeliaFerrero/Data-Science-4-you/blob/main/gatito_algebra_lineal.jpg" width="700" height="600">
