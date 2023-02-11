@@ -10,7 +10,7 @@
 
   
 <p align="center">
-  <img src="https://github.com/NoeliaFerrero/Data-Science-4-you/blob/main/gatito_algebra_lineal.jpg">
+  <img src="https://github.com/NoeliaFerrero/Data-Science-4-you/blob/main/gatito_algebra_lineal.jpg", size= 10*10>
 </p>
 
 <p align="center">
